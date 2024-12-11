@@ -10,3 +10,6 @@ in terms of sales. It is important to note that this study focuses on consumer p
 behavior in the context of online retail platforms. By examining the correlation between these factors, 
 the goal is to identify the extent to which customer feedback affects consumer decisions in this specific 
 context.
+**Result**
+Review Count is the best predictor of sales on online retail platforms
+Random Forests turned out to be the best model due to high predictive power & low error
